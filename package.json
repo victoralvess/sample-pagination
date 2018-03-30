@@ -6,6 +6,9 @@
   "repository": "https://github.com/victoralvess/sample-pagination",
   "author": "Victor Alves <vsilva.programador@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.3"
