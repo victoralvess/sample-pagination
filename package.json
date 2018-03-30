@@ -1,0 +1,12 @@
+{
+  "name": "sample-pagination",
+  "version": "1.0.0",
+  "description": "Sample Pagination with Fake data",
+  "main": "index.js",
+  "repository": "https://github.com/victoralvess/sample-pagination",
+  "author": "Victor Alves <vsilva.programador@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
